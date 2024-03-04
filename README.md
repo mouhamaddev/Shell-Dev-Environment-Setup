@@ -11,6 +11,9 @@ To use this script:
 The script will run Django and Angular server and the parameter added (frontend or backend) will open vs code depending on the project chosen.
 
 Operating system used: Arch Linux
+
 Desktop environment used: GNOME
+
 Default code editor: Visual Studio Code
+
 Default terminal: GNOME Terminal
