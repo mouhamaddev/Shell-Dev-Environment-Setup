@@ -1,6 +1,6 @@
 # Shell-Dev-Environment-Setup
 
-I've found myself repeatedly setting up the Django and Angular development environment daily, going through the routine of navigating to the folder via terminal, initiating a virtual environment, and launching the development environment for each application. So, I've crafted a shell script to automate these mundane yet essential tasks :)
+I've found myself repeatedly setting up the Django and Angular development environment daily, going through the routine of navigating to the folder via terminal, initiating a virtual environment, and launching the development environment for each application. So, I created a simple shell script to automate these simple tasks :)
 
 To use this script:
 1) Clone this repo
